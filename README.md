@@ -33,3 +33,7 @@ Learning Outcomes
 Author
 
 B.Tech Computer Science and Engineering Student
+
+## Output
+
+![Generated QR Code](MyQRCode.png)
